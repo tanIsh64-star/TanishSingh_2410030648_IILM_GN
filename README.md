@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1914-cyclically-rotating-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0149-max-points-on-a-line) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Linked List
 |  |
 | ------- |
@@ -568,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0511-game-play-analysis-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
