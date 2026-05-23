@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1914-cyclically-rotating-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2540-minimum-common-value](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
