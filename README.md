@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2540-minimum-common-value](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3093-longest-common-suffix-queries](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Binary Search
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [3093-longest-common-suffix-queries](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0140-word-break-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Sorting
 |  |
 | ------- |
