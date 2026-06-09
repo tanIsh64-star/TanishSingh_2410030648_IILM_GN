@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3093-longest-common-suffix-queries](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3161-block-placement-queries) |
+| [3689-maximum-total-subarray-value-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0135-candy) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3689-maximum-total-subarray-value-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Trie
 |  |
 | ------- |
