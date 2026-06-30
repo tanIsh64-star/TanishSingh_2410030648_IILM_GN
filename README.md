@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [1189-maximum-number-of-balloons](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2540-minimum-common-value) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3093-longest-common-suffix-queries](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3612-process-string-with-special-operations-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
