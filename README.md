@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1840-maximum-building-height) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1340-jump-game-v) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -718,4 +721,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
