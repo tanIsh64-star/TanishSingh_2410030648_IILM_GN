@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1914-cyclically-rotating-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -724,5 +726,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
